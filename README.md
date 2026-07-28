@@ -1,5 +1,5 @@
 # OPERA
-This repository is the official implementation of the paper “OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis”. This repository implements a multi-level ensemble approach for biomedical image classification that combines three expert models without requiring additional training.
+This repository is the official implementation of the paper “OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis”. This repository implements a multi-level ensemble approach for biomedical image classification that combines three expert models without requiring additional training. [ResearchGate](https://www.researchgate.net/publication/410915904_OPERA_Offline_Policy-guided_Expert_Routing_and_Adaptation_for_Universal_Biomedical_Image_Analysis)
 
 ## Overview
 
