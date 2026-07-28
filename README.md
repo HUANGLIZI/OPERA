@@ -91,7 +91,7 @@ bash eval_ensemble.sh
 ### Detailed Usage
 
 ```bash
-python train_ensemble.py \
+python eval_ensemble.py \
     --eva_x_checkpoint <path-to-eva-x-checkpoint> \
     --mgca_checkpoint <path-to-mgca-checkpoint> \
     --medical_mae_checkpoint <path-to-medical-mae-checkpoint> \
