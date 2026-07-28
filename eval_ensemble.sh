@@ -45,7 +45,7 @@ echo "Step 1: Tuning weights on validation set..."
 echo "Step 2: Evaluating on test set with tuned weights..."
 echo ""
 
-python train_ensemble.py \
+python eval_ensemble.py \
     --eva_x_checkpoint ${EVA_X_CKPT} \
     --mgca_checkpoint ${MGCA_CKPT} \
     --medical_mae_checkpoint ${MEDICAL_MAE_CKPT} \
