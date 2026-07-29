@@ -9,7 +9,7 @@ The ensemble combines three pre-trained expert models:
 2. **MGCA** (ResNet50) - Convolutional Neural Network
 3. **Medical MAE** (DenseNet121) - Dense Convolutional Network
 
-Pretrained Model weights on Chest X-Ray14 [Link](https://drive.google.com/drive/folders/1jSDE-dd12jvoH_Upv3xBW3BGhcDk9bRj?usp=sharing). You may need to send the request to get the access permission.
+Pretrained Model weights on Chest X-Ray14 is on the [Link](https://drive.google.com/drive/folders/1jSDE-dd12jvoH_Upv3xBW3BGhcDk9bRj?usp=sharing). You may need to send the request to get the access permission.
 
 ### Key Features
 
