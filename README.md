@@ -71,9 +71,9 @@ You need to provide three pre-trained model checkpoints:
 
 Update the checkpoint paths in `eval_ensemble.sh`:
 ```bash
-EVA_X_CKPT='path/to/eva_x_tiny_patch16_cxr14_ft.pth'
-MGCA_CKPT='path/to/resnet50_mgca_pt_cxr14_ft.pth'
-MEDICAL_MAE_CKPT='path/to/densenet121_medical_mae_pt_cxr14_ft.pth'
+EVA_X_CKPT='path/to/vit_tiny_cxr14.pth'
+MGCA_CKPT='path/to/resnet50_cxr14.pth'
+MEDICAL_MAE_CKPT='path/to/densenet121_cxr14.pth'
 ```
 
 ## Usage
